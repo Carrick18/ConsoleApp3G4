@@ -1,2 +1,2 @@
 # ConsoleApp3G4
-esta app es para explicar que el funcionamiento de githup
+esta app es para explicar el funcionamiento de githup
